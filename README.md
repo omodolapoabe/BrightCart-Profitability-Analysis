@@ -35,7 +35,7 @@ Excel --- data import, exploration, and validation
 SQL --- querying and business analysis
 Power BI --- DAX measures, KPIs, interactive dashboards, and
 reporting
-Figma --- for dashboard backgroung creation
+Figma --- for dashboard background creation
 
 Data Overview
 The project documentation describes three main datasets:
